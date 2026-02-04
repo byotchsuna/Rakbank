@@ -1,0 +1,7 @@
+{
+  "name": "RAKBANK Online | Simply Better",
+  "description": "Educational demo of RAKBANK Digital Banking experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
